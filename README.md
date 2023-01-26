@@ -19,4 +19,4 @@ Once I began, I then started the timer in Toggl until the assignment was finishe
 If I had to end the timer to go to class or an extracurricular activity before my work was finished, 
 a new timer can simply be started with the same name as the pervious one. 
 
-**This project was done in my data science class at Amherst College (STAT-231)*
+#### **This project was done in my data science class at Amherst College (STAT-231)*
